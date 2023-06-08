@@ -5,7 +5,7 @@ import { NavLink } from 'react-router-dom'
 //importa o styled-components
 import styled from 'styled-components'
 
-const Header = styled.div`
+const Header = styled.header`
     display: flex;
     justify-content: end;
 `
