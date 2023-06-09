@@ -8,6 +8,12 @@ import styled from 'styled-components'
 const Header = styled.header`
     display: flex;
     justify-content: end;
+    padding-top: 1.5em;
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-bottom: 1.5em;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+
 `
 
 const Nav = styled.nav`
