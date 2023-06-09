@@ -23,8 +23,8 @@ export default () => {
         <Home>
             <Header />
             <Social />
-            <Button name='CONTACT ME' onChange={contact} />
-            <Button name='DOWLOAD CV' onChange={dowload}/>
+            <Button name='CONTACT ME' style="secondary-button" onChange={contact} />
+            <Button name='DOWLOAD CV' style="secondary-button" onChange={dowload}/>
         </Home>
 
     )

@@ -21,7 +21,7 @@ body {
   cursor: pointer;
   text-decoration: none;
   margin-left: 25px;
-  width: 35px;
+  min-width: 50px;
   font-family: 'Roboto', sans-serif;
 }
 
